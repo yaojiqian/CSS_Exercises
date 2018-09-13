@@ -14,3 +14,6 @@ we can define multiple selecters' properties at sametime. Just using the ',' to 
 Then these selecters will have same properties' value. 
 If one of these selecters has special properties, we can define this selecter again with the special properties.
 Then all the properties will combine together to effect on the selecter.
+
+## Exercise 4
+Add a line to header and border property.
