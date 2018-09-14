@@ -36,3 +36,20 @@ will always win over all others: **!important.**
 ```
 
 reference: [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
+
+## Exercise 6
+Using Classes in CSS
+
+To define a class, put '.' just before the class name. To specify which tag effect on, can add the tag selector right before the '.'.
+
+```css
+    p.purple {
+        color: purple;
+        font-size: 25px;
+        font-family: Helvetica;
+    }
+```
+To use the class,  specify the class name with class attribute of the element.
+```html
+<p class="purple">Bass fish live in lakes.</p>
+```
