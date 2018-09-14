@@ -176,9 +176,20 @@ CSS Box Model Part 2
 body has a default margin.
 
 ## Exercise 19
-CSS Box Model Part 2
+CSS Box Model Part 3
 
 ```css
     display : block;
 ```
 The element generates a block element box, generating **line breaks** both before and after the element when in the normal flow.
+
+## Exercise 20
+CSS Box Model Part 4
+
+background-color property only applies to padding and content
+
+can combine padding to one line: padding: 10px 10px 10px 10px;
+
+can combine border too
+
+margin too too.
