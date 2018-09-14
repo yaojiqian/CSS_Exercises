@@ -66,3 +66,16 @@ To set multiple classes to one element. can combine the classes together splitin
     </blockquote>
 ```
 This recipe shows the element blockquote has two classes: blue and underline.
+
+## Exercise 8
+Font Family
+
+We can set font-family with multiple fonts. splited by ',';
+```css
+body {
+        color: green; /*this property will be inherite by the child element*/
+        font-family: Verdana, Arial, Geneva, Arial Black;
+}
+```
+If the first font is not found, the second one will be used, and if no second then third, and so on.
+If all fonts are not found, the browser's default font will be used.
