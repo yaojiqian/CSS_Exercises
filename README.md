@@ -204,3 +204,8 @@ To refer a picture in background-image, using the url();
 The ID Attribute
 
 ID style defined by starting '#'.
+
+## Exercise 23
+The text align property
+
+text-align: [center|left|right]
