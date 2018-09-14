@@ -209,3 +209,20 @@ ID style defined by starting '#'.
 The text align property
 
 text-align: [center|left|right]
+
+## Exercise 24
+Border Property Part 1
+
+border property
+
+border-color
+
+    [NAME|RGB|HEX]
+
+border-width
+
+    [thin|medium|thick|px]
+
+border-style:
+
+    [solid|dashed|dotted|double|groove|inset|outset|ridge]
