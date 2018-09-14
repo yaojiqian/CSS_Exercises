@@ -174,3 +174,11 @@ CSS Box Model Part 1
 CSS Box Model Part 2
 
 body has a default margin.
+
+## Exercise 19
+CSS Box Model Part 2
+
+```css
+    display : block;
+```
+The element generates a block element box, generating **line breaks** both before and after the element when in the normal flow.
