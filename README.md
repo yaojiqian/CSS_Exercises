@@ -128,7 +128,7 @@ We can use tag &lt;i&gt; to specify the text to italic in html.
 ## Exercise 13
 Web Colors
 
-![16 colors](Images/WebColors.png) ![RGG Colors](Images/RGBColors.png)
+![16 colors](Images/WebColors.PNG) ![RGG Colors](Images/RGBColors.PNG)
 
 To specify the colors, we can use the color name, RGB funcation or HEX code;
 ```css
