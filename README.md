@@ -233,3 +233,21 @@ Border Property Part 2
 border-radius, border-bottom-left-radius, border-bottom-right-radius, border-top-left-radius, border-top-right-radius
 
 border-bottom, border-top, border-left, border-right
+
+## Exercise 26
+The DIV element
+
+DIV use to divid the web page into logical sections.
+
+## Exercise 27
+The SPAN element
+
+SPAN is similar to the DIV, but operates on smaller scale.
+
+A SPAN element is in-line and selects small chunk of HTML.
+
+## Exercise 28
+Add content page and reuse some of our CSS classes
+
+## Exercise 29
+Special effects
