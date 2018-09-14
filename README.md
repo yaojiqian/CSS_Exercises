@@ -148,3 +148,17 @@ rgb(240, 28, 235);
  ```html
  <p style="color:black;font-size:25px;" >This is inline style.</p>
  ```
+
+ ## Exercise 15
+ More on Font sizes
+
+The font-size property is specified in one of the following ways:
+
+As one of the **absolute-size** or **relative-size** keywords;
+
+As a &lt;length&gt; or a &lt;percentage&gt;, relative to the parent element's font size;
+
+xx-small | x-small | small | medium | large | x-large | xx-large
+
+px, em
+ 

@@ -1,0 +1,32 @@
+body {
+    color: green; /*this property will be inherite by the child element*/
+    font-family: Verdana, Arial, Geneva, Arial Black;
+    font-weight: normal;
+    /*background-color:lime;*/
+    /*background-color: rgb(240, 38, 235);*/
+    background-color: #ffcf79;
+    font-size: 25px;
+}
+h1 {
+    font-size: 150%;
+    text-decoration: underline;
+}
+
+h2 {
+    text-decoration: underline;
+    font-size: 1.2em;
+}
+
+p.para1 {/*'.' means the 'blue' is a class. it can be used on any element. */
+    color: blue;
+}
+
+p.para2 {
+    color: purple;
+}
+
+p.para3 {
+    color: purple;
+    font-size: 25px;
+    font-style: italic;
+}
