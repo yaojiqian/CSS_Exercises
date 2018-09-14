@@ -199,3 +199,8 @@ margin too too.
 Background image property
 
 To refer a picture in background-image, using the url();
+
+## Exercise 22
+The ID Attribute
+
+ID style defined by starting '#'.
