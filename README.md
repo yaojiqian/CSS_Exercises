@@ -97,3 +97,14 @@ And add link in the html file. To link an external stylesheet, you'd include a &
 The path to the stylesheet inside an **href** attribute;
 The **rel** stands for "relationship";
 The **type** attribute is used to define the type of the content linked to.
+
+## Exercise 11
+Text-decoration property
+```css
+h1, h2 {
+   /*text-decoration: underline;*/
+   /*text-decoration: line-through;*/
+   /*text-decoration: overline;*/
+   text-decoration: underline line-through overline;
+}
+```
