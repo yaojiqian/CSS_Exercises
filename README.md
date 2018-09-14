@@ -9,11 +9,30 @@ Using &lt;style&gt; tag in the html file directly.
 Set tag P's color, font-size, font-family properties.
 
 ## Exercise 3
-Multiple selecters defining.
-we can define multiple selecters' properties at sametime. Just using the ',' to join these selecters together.
-Then these selecters will have same properties' value. 
-If one of these selecters has special properties, we can define this selecter again with the special properties.
+Multiple selectors defining.
+we can define multiple selectors' properties at sametime. Just using the ',' to join these selectors together.
+Then these selectors will have same properties' value. 
+If one of these selectors has special properties, we can define this selecter again with the special properties.
 Then all the properties will combine together to effect on the selecter.
 
 ## Exercise 4
 Add a line to header and border property.
+
+## Exercise 5
+Inheritance and overriding. 
+
+![CSS Inheritance](/Images/CSS_Inheritance.png)
+
+1. Rules later in the source order generally override earlier rules.
+2. IDs/class selectors have higher specificity than element selectors.
+3. IDs have an even higher specificity than classes.
+4. In CSS, there is a special piece of syntax you can use to make sure that a certain declaration 
+will always win over all others: **!important.**
+```css
+.better {
+  background-color: gray;
+  border: none !important;
+}
+```
+
+reference: [Cascade and inheritance](https://developer.mozilla.org/en-US/docs/Learn/CSS/Introduction_to_CSS/Cascade_and_inheritance)
