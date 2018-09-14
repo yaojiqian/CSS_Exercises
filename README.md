@@ -169,3 +169,8 @@ Line height property
 CSS Box Model Part 1
 
 ![CSS Box Model](Images/CSS_BoxModel.PNG)
+
+## Exercise 18
+CSS Box Model Part 2
+
+body has a default margin.
