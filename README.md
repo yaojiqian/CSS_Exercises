@@ -193,3 +193,9 @@ can combine padding to one line: padding: 10px 10px 10px 10px;
 can combine border too
 
 margin too too.
+
+
+## Exercise 21
+Background image property
+
+To refer a picture in background-image, using the url();
