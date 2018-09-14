@@ -226,3 +226,10 @@ border-width
 border-style:
 
     [solid|dashed|dotted|double|groove|inset|outset|ridge]
+
+## Exercise 25
+Border Property Part 2
+
+border-radius, border-bottom-left-radius, border-bottom-right-radius, border-top-left-radius, border-top-right-radius
+
+border-bottom, border-top, border-left, border-right
