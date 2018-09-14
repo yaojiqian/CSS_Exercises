@@ -21,11 +21,7 @@ Add a line to header and border property.
 ## Exercise 5
 Inheritance and overriding. 
 
-<<<<<<< HEAD
 ![CSS Inheritance](Images/CSS_Inheritance.PNG)
-=======
-![CSS Inheritance](./Images/CSS_Inheritance.png)
->>>>>>> 4e35df596868e24822e880f6f2ba9a186b5f877d
 
 1. Rules later in the source order generally override earlier rules.
 2. IDs/class selectors have higher specificity than element selectors.
@@ -57,7 +53,6 @@ To use the class,  specify the class name with class attribute of the element.
 ```html
 <p class="purple">Bass fish live in lakes.</p>
 ```
-<<<<<<< HEAD
 
 ## Exercise 7
 More on Classes in CSS
@@ -71,5 +66,3 @@ To set multiple classes to one element. can combine the classes together splitin
     </blockquote>
 ```
 This recipe shows the element blockquote has two classes: blue and underline.
-=======
->>>>>>> 4e35df596868e24822e880f6f2ba9a186b5f877d
