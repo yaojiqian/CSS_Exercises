@@ -84,3 +84,16 @@ If all fonts are not found, the browser's default font will be used.
 The Font Weight Property
 lighter, normal, bold, bolder
 
+## Exercise 10
+Using an external style sheet
+
+We can save the style definitions in a external file, so the styles can be shared in several files.
+And add link in the html file. To link an external stylesheet, you'd include a &lt;link&gt; element inside your &lt;head&gt;
+```html
+<head>
+    <link rel="stylesheet" type="text/css" href="stylesheet.css">
+</head>
+```
+The path to the stylesheet inside an **href** attribute;
+The **rel** stands for "relationship";
+The **type** attribute is used to define the type of the content linked to.

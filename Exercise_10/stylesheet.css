@@ -1,0 +1,25 @@
+body {
+    color: green; /*this property will be inherite by the child element*/
+    font-family: Verdana, Arial, Geneva, Arial Black;
+    font-weight: normal;
+}
+h1, h2 {
+   border-bottom: 1px solid black;
+}
+
+h1 {
+    color: pink; /*this will overwrite the body's color.*/
+}
+
+.blue {/*'.' means the 'blue' is a class. it can be used on any element. */
+    color: blue;
+    font-size: 25px;
+}
+
+.underline {
+    text-decoration: underline;
+}
+p.purple {
+    color: purple;
+    font-size: 25px;
+}
