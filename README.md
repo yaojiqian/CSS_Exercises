@@ -136,3 +136,15 @@ black;
 rgb(240, 28, 235);
 #FFCF79;
 ```
+
+## Exercise 14
+ Using inline style
+
+ style types: internal style, external style and inline style.
+ internal style appears in the __head__ of the html, surrounded by &lt;style&gt;;
+ external style is defined in the css file, and linked to the html;
+ inline style is defined in the element __style__ attribute.
+
+ ```html
+ <p style="color:black;font-size:25px;" >This is inline style.</p>
+ ```
