@@ -124,3 +124,15 @@ We can use tag &lt;i&gt; to specify the text to italic in html.
 ```html
 <p class="para2">Bass fish live in lakes. The word for fish in Latin is <i>Pisces</i>>.</p>
 ```
+
+## Exercise 13
+Web Colors
+
+![16 colors](Images/WebColors.png) ![RGG Colors](Images/RGBColors.png)
+
+To specify the colors, we can use the color name, RGB funcation or HEX code;
+```css
+black;
+rgb(240, 28, 235);
+#FFCF79;
+```
