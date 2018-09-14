@@ -79,3 +79,8 @@ body {
 ```
 If the first font is not found, the second one will be used, and if no second then third, and so on.
 If all fonts are not found, the browser's default font will be used.
+
+## Exercise 9
+The Font Weight Property
+lighter, normal, bold, bolder
+
