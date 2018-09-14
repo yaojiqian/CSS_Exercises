@@ -149,8 +149,8 @@ rgb(240, 28, 235);
  <p style="color:black;font-size:25px;" >This is inline style.</p>
  ```
 
- ## Exercise 15
- More on Font sizes
+## Exercise 15
+More on Font sizes
 
 The font-size property is specified in one of the following ways:
 
@@ -161,4 +161,11 @@ As a &lt;length&gt; or a &lt;percentage&gt;, relative to the parent element's fo
 xx-small | x-small | small | medium | large | x-large | xx-large
 
 px, em
- 
+
+## Exercise 16
+Line height property
+
+## Exercise 17
+CSS Box Model Part 1
+
+![CSS Box Model](Images/CSS_BoxModel.PNG)
