@@ -108,3 +108,19 @@ h1, h2 {
    text-decoration: underline line-through overline;
 }
 ```
+
+## Exercise 12
+Italic fonts
+We can set the text to italic in css and in the html.
+```css
+p.para3 {
+    color: purple;
+    font-size: 25px;
+    /*font-style: italic;*/
+    font-style: oblique;
+}
+```
+We can use tag &lt;i&gt; to specify the text to italic in html.
+```html
+<p class="para2">Bass fish live in lakes. The word for fish in Latin is <i>Pisces</i>>.</p>
+```
