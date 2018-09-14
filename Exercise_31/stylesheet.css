@@ -1,0 +1,17 @@
+div {
+ 
+    margin: 25px;
+    border: black 2px solid;
+    padding: 10px;
+     
+    background-color: yellow;
+}
+     
+img.special {
+     
+    margin: 25px;
+    border: black 2px solid;
+    padding: 10px;
+    background-color: yellow;
+     
+}
