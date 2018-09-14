@@ -251,3 +251,10 @@ Add content page and reuse some of our CSS classes
 
 ## Exercise 29
 Special effects
+
+## Exercise 30
+Block and Inline elements Part
+
+block element
+
+inline element

@@ -1,0 +1,29 @@
+h1 {
+    background-color: green;
+    color: yellow;
+}
+
+h2 {
+    background-color: green;
+    color: yellow;
+}
+
+p {
+    background-color: green;
+    color: yellow;
+}
+
+p.test {
+    background-color: green;
+    color: yellow;
+    border: yellow 2px solid;
+}
+
+div {
+    background-color: green;
+    color: yellow;
+}
+
+img.special{
+
+}
