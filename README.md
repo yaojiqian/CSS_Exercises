@@ -21,7 +21,7 @@ Add a line to header and border property.
 ## Exercise 5
 Inheritance and overriding. 
 
-![CSS Inheritance](/Images/CSS_Inheritance.png)
+![CSS Inheritance](./Images/CSS_Inheritance.png)
 
 1. Rules later in the source order generally override earlier rules.
 2. IDs/class selectors have higher specificity than element selectors.
