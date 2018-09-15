@@ -334,3 +334,6 @@ Child selector
 ![Child selector & descendant selector](Images/child_selector.png)
 
 ![Sibling selector](Images/sibling_selector.png)
+
+## Exercise 56
+Opacity property

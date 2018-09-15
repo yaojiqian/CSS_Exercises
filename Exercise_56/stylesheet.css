@@ -1,0 +1,48 @@
+
+/* Opacity */
+#box1 {
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    background-color: blue;
+}
+
+#box2 {
+    width: 300px;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    float: left;
+    background-color: blue;
+    opacity: 0.4;
+}
+
+#box2:hover {
+    opacity: 1.0;
+}
+
+/* linear gradient */
+#box3 {
+    width: 800px;
+    height: 300px;
+    float: left;
+    background: blue;
+    /*background: linear-gradient(blue, yellow);
+    background: linear-gradient(to left, blue, yellow);
+    background: linear-gradient(to top right, blue, yellow);
+    background: linear-gradient(30deg, blue, yellow);
+    background: linear-gradient(green, blue, yellow);*/
+    background: linear-gradient(blue 20%, yellow 20%);
+}
+
+
+/* Combine opacity and linear gradient */
+#box4 {
+    width: 800px;
+    height: 300px;
+    float: left;
+    background: blue;
+    background: linear-gradient(rgba(255,255,0,0.5), rgba(0,0,255,1.0));
+}
