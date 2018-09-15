@@ -6,6 +6,8 @@
 #### Styling the body
 #### Adding header and navigation section
 #### Adding the main content section
+#### Adding the sidebar
+#### Adding additional content panels
 
 ### Add the content
 
