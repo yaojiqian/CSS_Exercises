@@ -5,6 +5,7 @@
 ### Laying out the sections
 #### Styling the body
 #### Adding header and navigation section
+#### Adding the main content section
 
 ### Add the content
 
