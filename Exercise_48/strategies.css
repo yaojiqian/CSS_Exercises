@@ -1,0 +1,40 @@
+
+#left {
+    width: 300px;
+    float: left;
+    background-color: #FFFFFE;
+}
+
+#center {
+    width: 300px;
+    float: left;
+    background-color: #ECF1EF;
+}
+
+#right {
+    width: 300px;
+    float: left;
+    background-color: #EBECE4;
+}
+
+#left, #center, #right {
+    padding: 10px;
+    margin: 15px;
+    border: orange 2px solid;
+}
+
+#left, #center, #right {
+    padding: 10px;
+    margin: 15px;
+    border: green 2px solid;
+}
+
+/*sibling selector*/
+
+p+h2 {
+    color: red;
+}
+/*
+h2~p {
+    color: red;
+}*/

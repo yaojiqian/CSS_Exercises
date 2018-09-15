@@ -315,3 +315,22 @@ The inline-block
 Web Forms Part
 
 display: table | display: table-row | display:table-cell
+
+## Exercise 48
+Review and descendant selector - Selectors Part 
+
+Type Selector
+
+ID Selector
+
+class Selector
+
+combine selector
+
+Descendant selector
+
+Child selector
+
+![Child selector & descendant selector](Images/child_selector.png)
+
+![Sibling selector](Images/sibling_selector.png)

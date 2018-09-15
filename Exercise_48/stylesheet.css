@@ -1,0 +1,29 @@
+/* The Tyep selectors - select by element by type */
+h1 {
+    color: blue;
+}
+
+/* The ID selectors - select element with # */
+#para1 {
+    color: green;
+}
+
+/* The ID selectors - select element with . */
+.para {
+    color: orange;
+}
+
+/* The Combine selectors - */
+h2, h3, #para1 {
+    text-decoration: underline;
+}
+
+/* The descendant selectors - select element inside other element. */
+div p {
+    font-style: italic;
+}
+
+/* The Child selector - select DIRECT CHILD element */
+blockquote.test>b {
+    color:purple;
+}
