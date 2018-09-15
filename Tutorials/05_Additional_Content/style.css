@@ -51,4 +51,5 @@ h2 {
     font-size: 105%;
     float: right;
     width: 260px;
+    clear: right;
 }
