@@ -1,0 +1,44 @@
+#theForm {
+    color: white;
+    display: table;
+    padding: 15px;
+    background-color: #2C8F77;
+    border: 2px black solid;
+}
+
+.row {
+    display: table-row;
+}
+
+.row label {
+    display: table-cell;
+    padding: 2px;
+    text-align: right;
+}
+
+.row input {
+    display: table-cell;
+    padding: 2px;
+}
+
+.personTable{
+    background-color: darkgreen;
+    color: yellow;
+    padding: 15px;
+    border: 2px black solid;
+    display: table;
+}
+
+.personRow {
+    display: table-row;
+}
+
+.personRow label {
+    display: table-cell;
+    text-align: right;
+}
+
+.personRow span {
+    display: table-cell;
+    padding: 0 10px;
+}

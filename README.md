@@ -310,3 +310,8 @@ A nice button
 
 ## Exercise 45
 The inline-block
+
+## Exercise 46
+Web Forms Part
+
+display: table | display: table-row | display:table-cell
