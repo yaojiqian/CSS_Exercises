@@ -1,0 +1,32 @@
+#nav {
+    background-color: darkgreen;
+    height: 35px;
+    font-size: 25px;
+    font-weight: bold;
+    font: Tahoma;
+}
+
+#nav ul {
+    list-style: none;
+    text-align: center;
+    padding: 0;
+    margin: 0;
+}
+
+#nav li {
+    display: inline;
+    padding: 15px;
+    vertical-align: middle;
+}
+
+#nav a {
+    text-decoration: none;
+    padding: 8px 8px 8px 8px;
+    color: white;
+    vertical-align: middle;
+}
+
+#nav a:hover {
+    background-color: white;
+    color:black;
+}

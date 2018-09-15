@@ -258,3 +258,52 @@ Block and Inline elements Part
 block element
 
 inline element
+
+## Exercise 31
+Block and Inline elements Part 2
+
+## Exercise 32
+Block and Inline elements Part 3
+
+## Exercise 33
+floating an element
+
+The float CSS property specifies that an element should be placed along the left or right side of its container, allowing text and inline elements to wrap around it. The element is removed from the normal flow of the web page, though still remaining a part of the flow (in contrast to absolute positioning).
+
+reference: [float](https://developer.mozilla.org/en-US/docs/Web/CSS/float)
+
+## Exercise 34
+Absolute position for an element
+
+## Exercise 35
+Fixed position for an element
+
+It is positioned relative to the initial containing block established by the **viewport**.
+Reference: [position](https://developer.mozilla.org/en-US/docs/Web/CSS/position)
+
+## Exercise 36
+The overflow property
+
+
+## Exercise 37
+The cursor property
+
+    default, inherit, auto, URL, crosshair, pointer, move, text, help, hand, no-drop, alias, progress, wait, grab, grabbing, copy, cell spinning, none
+
+## Exercise 38
+Custom cursor
+
+## Exercise 39
+Text and images
+
+## Exercise 40
+Relative positioning
+
+## Exercise 41
+Vertical menu
+
+## Exercise 43
+Horizontal menu
+
+## Exercise 44
+A nice button
