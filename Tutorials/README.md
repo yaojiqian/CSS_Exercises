@@ -8,6 +8,7 @@
 #### Adding the main content section
 #### Adding the sidebar
 #### Adding additional content panels
+#### Image sidebar
 
 ### Add the content
 
