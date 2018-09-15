@@ -29,12 +29,80 @@
     border: green 2px solid;
 }
 
-/*sibling selector*/
+#right1, #right2 {
+    padding: 10px;
+    margin: 15px;
+    border: orange 2px solid;
+    width: 300px;
+    float: left;
+    background-color: #EBECE4;
+}
 
-p+h2 {
+/*sibling selector
+h2+p {
     color: red;
 }
-/*
+
 h2~p {
     color: red;
+}
+*/
+
+/* ---Attribute Selector
+p[lang="en-us ja"] {
+    background-color: orange;
+}
+
+p[lang^="fr"] {
+    background-color: orange;
+}
+
+p[lang$="ja"] {
+    background-color: orange;
+}
+
+p[lang*="k"] {
+    background-color: orange;
+}
+*/
+
+/* nth child selector
+#right2 p:nth-child(even) {
+    background-color: orange;
+}
+
+#right2 p:nth-child(odd) {
+    background-color: orange;
+}
+
+#right2 p:nth-child(3) {
+    background-color: orange;
+}
+
+#right2 p:nth-child(3n) {
+    background-color: orange;
+}
+
+#right2 p:nth-child(3n +4) {
+    background-color: orange;
+}
+*/
+
+/* not selector 
+p {
+    color: red; /*set all p's color to red
+}
+/* to use not selector, must define a positive selector first. 
+:not(p){
+    color:darkgreen;
 }*/
+
+/* first selector */
+p::first-letter {
+    font-weight: bold;
+    font-size: 24px;
+}
+
+p:first-line {
+    color:red;
+}
