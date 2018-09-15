@@ -307,3 +307,6 @@ Horizontal menu
 
 ## Exercise 44
 A nice button
+
+## Exercise 45
+The inline-block

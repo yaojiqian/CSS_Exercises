@@ -1,0 +1,24 @@
+.test_inline {
+    background-color: yellow;
+    height: 50px;
+    display: inline;
+}
+
+.test_block {
+    background-color: yellow;
+    height: 50px;
+    display: block;
+}
+
+.test_inline_block {
+    background-color: yellow;
+    height: 50px;
+    display: inline-block;
+}
+
+div {
+    color: black;
+    border: 1px solid;
+    border-radius: 10px;
+    margin: 10px 0px;
+}
