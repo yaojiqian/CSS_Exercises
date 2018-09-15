@@ -337,3 +337,6 @@ Child selector
 
 ## Exercise 56
 Opacity property
+
+# Exercise 59
+shadow
