@@ -10,6 +10,7 @@
 #### Adding additional content panels
 #### Image sidebar
 #### Add effects to the Image sidebar
+#### Adding the footer
 
 ### Add the content
 
