@@ -15,6 +15,7 @@
 ### Add the content
 #### Navigation bar and buttons
 #### Working in the header
+#### Working in the footer
 
 
 ## Types of Layouts
