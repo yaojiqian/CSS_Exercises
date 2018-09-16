@@ -23,7 +23,7 @@
 ### Fluid
 
 ### Fixed
-
+#### The Fixed Layout Part
 
 
 ## Master and Content pages
