@@ -13,7 +13,7 @@
 #### Adding the footer
 
 ### Add the content
-
+#### Navigation bar and buttons
 
 
 ## Types of Layouts
